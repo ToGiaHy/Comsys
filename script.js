@@ -246,3 +246,4 @@ function closeWindow(){
 	e3.style.transition = "all 500ms ease";
 	e4.style.opacity= "1";
 }
+
